@@ -1,1 +1,1 @@
-# simpleChromeExtensionPupUp-proj
+# Title_of_the_current_tab-chromeExtension
