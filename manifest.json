@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Title of the current tab",
+    "version": "0.0.1",
+    "description": "This is Simple Extension that will display title of the webpage you are Currently In.",
+    "permissions": ["tabs"],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "hello_extensions.jpg"
+    }
+  }
